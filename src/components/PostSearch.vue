@@ -32,4 +32,17 @@ export default {
 </script>
 
 <style lang="css" scoped>
+
+div {
+  text-align: center;
+  width: 150px;
+  position: fixed;
+  right: 10px;
+  top: 130px;
+}
+
+label {
+  color: white;
+}
+
 </style>

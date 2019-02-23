@@ -25,11 +25,17 @@ export default {
 div {
   padding: 30px;
   margin: 30px;
+  border-radius: 30px;
+  background-color: #252525;
+  max-width: 450px;
+  min-width: 450px;
 }
 
 img {
+  display: block;
   width: 350px;
   height: 450px;
+  margin: auto;
   margin-bottom: 50px;
 }
 
