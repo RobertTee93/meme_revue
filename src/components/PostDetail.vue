@@ -22,18 +22,28 @@ div {
   flex-direction: column;
   align-items: center;
   margin: auto;
+  margin-top: 150px;
+  margin-bottom: 100px;
   color: white;
   padding: 30px;
   border-radius: 30px;
   background-color: #252525;
-  max-width: 450px;
-  min-width: 450px;
+  max-width: 600px;
+  min-width: 600px;
   height: 750px;
+  box-shadow: 1px 1px 20px 6px black;
+}
+
+p {
+  margin: 10px;
 }
 
 img {
-  width: 500px;
-  height: 500px;
+  display: block;
+  width: 350px;
+  height: 450px;
+  margin: auto;
+  margin-bottom: 50px;
 }
 
 </style>

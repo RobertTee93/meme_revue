@@ -27,8 +27,9 @@ div {
   margin: 30px;
   border-radius: 30px;
   background-color: #252525;
-  max-width: 450px;
-  min-width: 450px;
+  max-width: 600px;
+  min-width: 600px;
+  box-shadow: 1px 1px 20px 6px black;
 }
 
 img {
@@ -42,6 +43,7 @@ img {
 h2 {
   text-align: center;
   margin-bottom: 30px;
+  margin-top: 0;
 }
 
 </style>
